@@ -42,10 +42,10 @@ body {
     color: var(--branco);
     display: flex;
     justify-content: center;
-    padding: 1em;
+    padding: 3em;
     font-size: 18px;
     align-items: center;
-    width: 100%;
+    width: 200%;
     border-bottom: 4px solid var(--botao-ativo);
     border-left: 2px solid var(--botao-ativo);
     border-right: 2px solid var(--botao-ativo);
