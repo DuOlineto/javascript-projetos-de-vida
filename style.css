@@ -19,7 +19,6 @@ body {
 .conteudo-principal {
     display: flex;
     flex-direction: column;
-    align-items: center;
     max-width: 1200px;
     width: 100%;
     margin: 0 auto;
@@ -44,7 +43,6 @@ body {
     justify-content: center;
     padding: 2em;
     font-size: 18px;
-    align-items: center;
     width: 500%;
     border-bottom: 4px solid var(--botao-ativo);
     border-left: 2px solid var(--botao-ativo);
@@ -67,7 +65,7 @@ body {
 
 .abas-textos{
     background-color: var(--texto-fundo);
-    padding: 20px;
+    padding: 40px;
     border-radius: 0 0 40px 40px;
 }
 .aba-conteudo.ativo{
